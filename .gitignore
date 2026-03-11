@@ -1,7 +1,7 @@
 /build/
-   /dist/
-   /nbproject/private/
-   *.class
-   *.jar
-   *.war
-   *.log
+/dist/
+/nbproject/private/
+*.class
+*.jar
+*.war
+*.log
